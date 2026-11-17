@@ -190,4 +190,4 @@ Use the button in the Quick Start section.
 
 ---
 
-*The Witcher 3: Wild Hunt · Updated 2026-11-16 · Shared under the MIT License*
+*The Witcher 3: Wild Hunt · Updated 2026-11-17 · Shared under the MIT License*
